@@ -20,6 +20,12 @@
 # Se definida como um array vazio, esta variável não terá efeito.
 # ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
 
+# Mantenha 1000 linhas de histórico dentro do shell e salve-o em ~/.zsh_history:
+HISTSIZE=1000
+SALVARHIST=1000
+HISTFILE=~/.zsh_history
+HISTCONTROL=ignoreboth
+
 # Atualização automática do ZSH
 zstyle ':omz:update' mode auto      # atualizar automaticamente sem perguntar
 zstyle ':omz:update' frequency 7   # frequência de atualização automática (em dias)
