@@ -1,4 +1,11 @@
 # Configurações ZSH + OhmyZSH + Logo-ls + fzf + powerlevel9k
+#-------------------------------------------------------------------------------
+# Edius Ferreira (ediusferreira@gmail.com)
+# Barra do Garças - Mato Grosso - 30/04/2024
+# Criado sob a versão 5.9-6 do zsh
+#-------------------------------------------------------------------------------
+# MIT License
+#-------------------------------------------------------------------------------
 
 
 # Veja os temas disponíveis em https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
